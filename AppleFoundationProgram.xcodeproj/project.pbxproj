@@ -8,17 +8,17 @@
 
 /* Begin PBXBuildFile section */
 		0A4868BD2B44AC9300A42392 /* AppleFoundationProgramApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A4868BC2B44AC9300A42392 /* AppleFoundationProgramApp.swift */; };
-		0A4868BF2B44AC9300A42392 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A4868BE2B44AC9300A42392 /* ContentView.swift */; };
 		0A4868C12B44AC9400A42392 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0A4868C02B44AC9400A42392 /* Assets.xcassets */; };
 		0A4868C42B44AC9400A42392 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0A4868C32B44AC9400A42392 /* Preview Assets.xcassets */; };
+		0A4868CC2B44ACFE00A42392 /* Exercise1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A4868CB2B44ACFE00A42392 /* Exercise1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		0A4868B92B44AC9300A42392 /* AppleFoundationProgram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AppleFoundationProgram.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0A4868BC2B44AC9300A42392 /* AppleFoundationProgramApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppleFoundationProgramApp.swift; sourceTree = "<group>"; };
-		0A4868BE2B44AC9300A42392 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		0A4868C02B44AC9400A42392 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0A4868C32B44AC9400A42392 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		0A4868CB2B44ACFE00A42392 /* Exercise1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercise1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				0A4868BC2B44AC9300A42392 /* AppleFoundationProgramApp.swift */,
-				0A4868BE2B44AC9300A42392 /* ContentView.swift */,
+				0A4868CA2B44ACE700A42392 /* Exercise1 */,
 				0A4868C02B44AC9400A42392 /* Assets.xcassets */,
 				0A4868C22B44AC9400A42392 /* Preview Content */,
 			);
@@ -65,6 +65,14 @@
 				0A4868C32B44AC9400A42392 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		0A4868CA2B44ACE700A42392 /* Exercise1 */ = {
+			isa = PBXGroup;
+			children = (
+				0A4868CB2B44ACFE00A42392 /* Exercise1.swift */,
+			);
+			path = Exercise1;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +145,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0A4868BF2B44AC9300A42392 /* ContentView.swift in Sources */,
 				0A4868BD2B44AC9300A42392 /* AppleFoundationProgramApp.swift in Sources */,
+				0A4868CC2B44ACFE00A42392 /* Exercise1.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
