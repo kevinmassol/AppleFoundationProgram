@@ -11,6 +11,7 @@
 		0A4868C12B44AC9400A42392 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0A4868C02B44AC9400A42392 /* Assets.xcassets */; };
 		0A4868C42B44AC9400A42392 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0A4868C32B44AC9400A42392 /* Preview Assets.xcassets */; };
 		0A4868CC2B44ACFE00A42392 /* Exercise1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A4868CB2B44ACFE00A42392 /* Exercise1.swift */; };
+		0A4868CF2B45365100A42392 /* Exercise2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A4868CE2B45365100A42392 /* Exercise2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		0A4868C02B44AC9400A42392 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0A4868C32B44AC9400A42392 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		0A4868CB2B44ACFE00A42392 /* Exercise1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercise1.swift; sourceTree = "<group>"; };
+		0A4868CE2B45365100A42392 /* Exercise2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercise2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				0A4868BC2B44AC9300A42392 /* AppleFoundationProgramApp.swift */,
 				0A4868CA2B44ACE700A42392 /* Exercise1 */,
+				0A4868CD2B45364200A42392 /* Exercise2 */,
 				0A4868C02B44AC9400A42392 /* Assets.xcassets */,
 				0A4868C22B44AC9400A42392 /* Preview Content */,
 			);
@@ -73,6 +76,14 @@
 				0A4868CB2B44ACFE00A42392 /* Exercise1.swift */,
 			);
 			path = Exercise1;
+			sourceTree = "<group>";
+		};
+		0A4868CD2B45364200A42392 /* Exercise2 */ = {
+			isa = PBXGroup;
+			children = (
+				0A4868CE2B45365100A42392 /* Exercise2.swift */,
+			);
+			path = Exercise2;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -147,6 +158,7 @@
 			files = (
 				0A4868BD2B44AC9300A42392 /* AppleFoundationProgramApp.swift in Sources */,
 				0A4868CC2B44ACFE00A42392 /* Exercise1.swift in Sources */,
+				0A4868CF2B45365100A42392 /* Exercise2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
