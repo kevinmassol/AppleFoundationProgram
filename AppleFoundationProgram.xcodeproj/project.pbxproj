@@ -15,6 +15,7 @@
 		0A4868D22B4760E600A42392 /* Exercise3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A4868D12B4760E600A42392 /* Exercise3.swift */; };
 		0A4868D52B48A49800A42392 /* Exercise4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A4868D42B48A49800A42392 /* Exercise4.swift */; };
 		0A4868D82B498E2000A42392 /* Exercise5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A4868D72B498E2000A42392 /* Exercise5.swift */; };
+		0A4868DB2B4B5E1600A42392 /* Exercise6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A4868DA2B4B5E1600A42392 /* Exercise6.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		0A4868D12B4760E600A42392 /* Exercise3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercise3.swift; sourceTree = "<group>"; };
 		0A4868D42B48A49800A42392 /* Exercise4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercise4.swift; sourceTree = "<group>"; };
 		0A4868D72B498E2000A42392 /* Exercise5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercise5.swift; sourceTree = "<group>"; };
+		0A4868DA2B4B5E1600A42392 /* Exercise6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercise6.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				0A4868D02B4760CD00A42392 /* Exercise3 */,
 				0A4868D32B48A48400A42392 /* Exercise4 */,
 				0A4868D62B498E0600A42392 /* Exercise5 */,
+				0A4868D92B4B5DFC00A42392 /* Exercise6 */,
 				0A4868C02B44AC9400A42392 /* Assets.xcassets */,
 				0A4868C22B44AC9400A42392 /* Preview Content */,
 			);
@@ -117,6 +120,14 @@
 				0A4868D72B498E2000A42392 /* Exercise5.swift */,
 			);
 			path = Exercise5;
+			sourceTree = "<group>";
+		};
+		0A4868D92B4B5DFC00A42392 /* Exercise6 */ = {
+			isa = PBXGroup;
+			children = (
+				0A4868DA2B4B5E1600A42392 /* Exercise6.swift */,
+			);
+			path = Exercise6;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -195,6 +206,7 @@
 				0A4868D82B498E2000A42392 /* Exercise5.swift in Sources */,
 				0A4868CC2B44ACFE00A42392 /* Exercise1.swift in Sources */,
 				0A4868CF2B45365100A42392 /* Exercise2.swift in Sources */,
+				0A4868DB2B4B5E1600A42392 /* Exercise6.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
