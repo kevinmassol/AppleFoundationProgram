@@ -18,6 +18,8 @@
 		0A4868DB2B4B5E1600A42392 /* Exercise6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A4868DA2B4B5E1600A42392 /* Exercise6.swift */; };
 		0A4868DE2B4CA86400A42392 /* Exercise7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A4868DD2B4CA86400A42392 /* Exercise7.swift */; };
 		0A8E1EE82B4DB08F007000B0 /* Exercise8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A8E1EE72B4DB08F007000B0 /* Exercise8.swift */; };
+		0A8E1EEB2B4E6E2E007000B0 /* Exercise9.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A8E1EEA2B4E6E2E007000B0 /* Exercise9.swift */; };
+		0A8E1EED2B4E6EE9007000B0 /* SymbolView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A8E1EEC2B4E6EE9007000B0 /* SymbolView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +35,8 @@
 		0A4868DA2B4B5E1600A42392 /* Exercise6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercise6.swift; sourceTree = "<group>"; };
 		0A4868DD2B4CA86400A42392 /* Exercise7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercise7.swift; sourceTree = "<group>"; };
 		0A8E1EE72B4DB08F007000B0 /* Exercise8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercise8.swift; sourceTree = "<group>"; };
+		0A8E1EEA2B4E6E2E007000B0 /* Exercise9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercise9.swift; sourceTree = "<group>"; };
+		0A8E1EEC2B4E6EE9007000B0 /* SymbolView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SymbolView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +78,7 @@
 				0A4868D92B4B5DFC00A42392 /* Exercise6 */,
 				0A4868DC2B4CA85000A42392 /* Exercise7 */,
 				0A8E1EE62B4DB07F007000B0 /* Exercise8 */,
+				0A8E1EE92B4E6E19007000B0 /* Exercise9 */,
 				0A4868C02B44AC9400A42392 /* Assets.xcassets */,
 				0A4868C22B44AC9400A42392 /* Preview Content */,
 			);
@@ -152,6 +157,15 @@
 			path = Exercise8;
 			sourceTree = "<group>";
 		};
+		0A8E1EE92B4E6E19007000B0 /* Exercise9 */ = {
+			isa = PBXGroup;
+			children = (
+				0A8E1EEA2B4E6E2E007000B0 /* Exercise9.swift */,
+				0A8E1EEC2B4E6EE9007000B0 /* SymbolView.swift */,
+			);
+			path = Exercise9;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -225,12 +239,14 @@
 				0A4868BD2B44AC9300A42392 /* AppleFoundationProgramApp.swift in Sources */,
 				0A4868DE2B4CA86400A42392 /* Exercise7.swift in Sources */,
 				0A4868D22B4760E600A42392 /* Exercise3.swift in Sources */,
+				0A8E1EED2B4E6EE9007000B0 /* SymbolView.swift in Sources */,
 				0A4868D52B48A49800A42392 /* Exercise4.swift in Sources */,
 				0A8E1EE82B4DB08F007000B0 /* Exercise8.swift in Sources */,
 				0A4868D82B498E2000A42392 /* Exercise5.swift in Sources */,
 				0A4868CC2B44ACFE00A42392 /* Exercise1.swift in Sources */,
 				0A4868CF2B45365100A42392 /* Exercise2.swift in Sources */,
 				0A4868DB2B4B5E1600A42392 /* Exercise6.swift in Sources */,
+				0A8E1EEB2B4E6E2E007000B0 /* Exercise9.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
